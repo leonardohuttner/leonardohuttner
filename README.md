@@ -12,8 +12,19 @@ I'm a {frontend } developer and student at IFSUL Campus Camaquã;
 ### 🛠 Projects
 [Monitor de CriptoMoedas](https://leonardohuttner.github.io/monitorpage/) - 💸💰🚀 Thats a cripto monitor with API MercadoBitcoin + VueJS + Quasar
 <br>
-[-inProgress- AppFinanceiro](https://github.com/leonardohuttner/app-financeiro) - 💰💰💰 Thats my personal app for my expenses control, but it’s not ready yet
-<!--
+##Features
+- [x] Monitoramento em tempo real de uma ou todas criptomedas (BTC,ETH,XRP,LINK) ao mesmo tempo respeitando o limite de 1 atualização a cada 10s
+<br>
+[ 🚧 inContruction 🚧 AppFinanceiro](https://github.com/leonardohuttner/app-financeiro) - 💰💰💰 Thats my personal app for my expenses control, but it’s not ready yet
+<br>
+##Features
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [x] Cadastro de despesas
+- [ ] Filtros despesas por mês
+- [ ] Configurações e preferencias de usuario
+- [ ] Modo carteiras
+<!-- 
 **leonardohuttner/leonardohuttner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
