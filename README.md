@@ -11,7 +11,7 @@ I'm a {frontend } developer and student at IFSUL Campus Camaquã;
 
 ### 🛠 Projects
 [Monitor de CriptoMoedas](https://leonardohuttner.github.io/monitorpage/) - 💸💰🚀 Thats a cripto monitor with API MercadoBitcoin + VueJS + Quasar
-/n
+<br>
 [-inProgress- AppFinanceiro](https://github.com/leonardohuttner/app-financeiro) - 💰💰💰 Thats my personal app for my expenses control, but it’s not ready yet
 <!--
 **leonardohuttner/leonardohuttner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
