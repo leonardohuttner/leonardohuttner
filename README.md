@@ -1,18 +1,25 @@
 ### Hi there 👋
 
-# Hi, I'm Leonardo Huttner! :D
+# Olá, sou Leonardo Huttner! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leonardohuttner)](https://github.com/leonardohuttner)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-huttner/)](https://www.linkedin.com/in/leonardo-huttner/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leonardohutner)](https://twitter.com/leonardohutner)
+[![Gmail Badge](https://img.shields.io/badge/-leonardohuttner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardohuttner@gmail.com)](mailto:leonardohuttner@gmail.com)
 
-### 👀 About me
-I'm a {frontend } developer and student at IFSUL Campus Camaquã;
+### 💬 About me
+Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão e estudante de de ADS no IFSUL Campus Camaquã
+<br>
+:books: Buscando conhecimento/aprimorar Front end, desenvolvendo em VueJS, ReactJS, Node, API's 
+<br>
+:computer: Stacks: VueJS, JS, CSS, HTML
 
 ### 🛠 Projects
-[Monitor de CriptoMoedas](https://leonardohuttner.github.io/monitorpage/) - 💸💰🚀 Thats a cripto monitor with API MercadoBitcoin + VueJS + Quasar
+[Monitor de CriptoMoedas](https://leonardohuttner.github.io/monitorpage/) - 💸💰🚀 É um Monitor de criptomoedas feita com a API MercadoBitcoin + VueJS + Quasar 
+- Uso de api externa com axios, tratamento de erros e atualização a cada 10s conforme documentação.
 <br>
-[ 🚧 inContruction 🚧 AppFinanceiro](https://github.com/leonardohuttner/app-financeiro) - 💰💰💰 Thats my personal app for my expenses control, but it’s not ready yet
+[ 🚧 inContruction 🚧 AppFinanceiro](https://github.com/leonardohuttner/app-financeiro) - 💰💰💰 Esse é meu projeto pessoal para controle financeiro. Em andamento
+-Front end feito em VueJS, Quasar com api criada em Node + Express + Autenticação com JWT + Encriptação de dados e banco de dados não realacional Mongo DB Atlas (Nuvem)
 <br>
 
 <!-- 
