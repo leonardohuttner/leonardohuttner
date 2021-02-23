@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'm using github 👋
 
 # Olá, sou Leonardo Huttner! :D
 
@@ -8,9 +8,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-leonardohuttner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardohuttner@gmail.com)](mailto:leonardohuttner@gmail.com)
 
 ### 💬 About me
-Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão e estudante de de ADS no IFSUL Campus Camaquã
+Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão desde ago/2020 e estudante de de ADS no IFSUL Campus Camaquã 3º semestre.
 <br>
-:books: Buscando conhecimento/aprimorar Front end, desenvolvendo em VueJS, ReactJS, Node, API's 
+:books: Buscando conhecimento em desenvolvimento web, apps mobile e pwa's.. Iniciando trilha React
 <br>
 :computer: Stacks: VueJS, JS, CSS, HTML
 
