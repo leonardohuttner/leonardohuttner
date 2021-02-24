@@ -10,9 +10,9 @@
 ### 💬 About me
 Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão desde ago/2020 e estudante de de ADS no IFSUL Campus Camaquã 3º semestre.
 <br>
-:books: Buscando conhecimento em desenvolvimento web, apps mobile e pwa's.. Iniciando trilha React
+:books: Buscando conhecimento em desenvolvimento web
 <br>
-:computer: Stacks: VueJS, JS, CSS, HTML
+:computer: Stacks: Conhecimentos em JS,VueJS,HTML,CSS.. Iniciando com React 
 
 ### 🛠 Projects
 [Monitor de CriptoMoedas](https://leonardohuttner.github.io/monitorpage/) - 💸🚀 É um Monitor de criptomoedas feita com a API MercadoBitcoin + VueJS + Quasar 
