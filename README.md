@@ -23,5 +23,6 @@ Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão desde ago/2020 e 
 - Front end feito em VueJS, Quasar com api criada em Node + Express + Autenticação com JWT + Encriptação de dados e banco de dados não realacional Mongo DB Atlas 
 <br>
 
+[Projeto copia linktree] (https://territorio-do-calcado.vercel.app/) - 📱📦 Projeto pessoal para utilizar na nossa loja, simples e direto e hospedada com a ajuda da Vercel. Ainda em atualização e melhorias.
 <!-- 
 **leonardohuttner/leonardohuttner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
