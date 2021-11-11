@@ -9,7 +9,7 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=leonardohuttner&color=blue)
 
 ### 💬 About me
-Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão desde ago/2020 e estudante de de ADS no IFSUL Campus Camaquã 3º semestre.
+Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão desde ago/2020 e estudante de de ADS no IFSUL Campus Camaquã.
 <br>
 :books: Buscando conhecimento em desenvolvimento web
 <br>
@@ -27,6 +27,9 @@ Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão desde ago/2020 e 
 [AppFinanceiro](https://github.com/leonardohuttner/app-financeiro/) - 💰💰 Esse é meu projeto pessoal para controle financeiro. Em andamento
 - Front end feito em VueJS, Quasar com api criada em Node + Express + Autenticação com JWT + Encriptação de dados e banco de dados não realacional Mongo DB Atlas 
 <br>
+
+[CapivaraTracker](https://capivara-tracker.vercel.app/) - ✈🖥📦 Esse é meu projeto pessoal para rastreio de encomendas dos correios. Em andamento
+- Front end feito em VueJS, Quasar utilizando a api de um parceiro [link&track](https://linketrack.com/)
 
 [Projeto copia linktree](https://territorio-do-calcado.vercel.app/) - 📱📦 Projeto pessoal para utilizar na nossa loja, simples e direto e hospedada com a ajuda da Vercel. Ainda em atualização e melhorias.
 <!-- 
