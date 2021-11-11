@@ -6,6 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-huttner/)](https://www.linkedin.com/in/leonardo-huttner/)
 [![Twitter Badge](https://img.shields.io/badge/-@leonardohutner-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leonardohutner)](https://twitter.com/leonardohutner)
 [![Gmail Badge](https://img.shields.io/badge/-leonardohuttner@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardohuttner@gmail.com)](mailto:leonardohuttner@gmail.com)
+![Github Badge](https://komarev.com/ghpvc/?username=leonardohuttner&color=blue)
 
 ### 💬 About me
 Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão desde ago/2020 e estudante de de ADS no IFSUL Campus Camaquã 3º semestre.
@@ -13,6 +14,10 @@ Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão desde ago/2020 e 
 :books: Buscando conhecimento em desenvolvimento web
 <br>
 :computer: Stacks: Conhecimentos em JS,VueJS,HTML,CSS.. Iniciando com React 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohuttner&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/leonardohuttner)
+
 
 ### 🛠 Projects
 [Monitor de CriptoMoedas](https://leonardohuttner.github.io/monitorpage/) - 💸🚀 É um Monitor de criptomoedas feita com a API MercadoBitcoin + VueJS + Quasar 
