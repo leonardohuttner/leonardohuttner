@@ -9,11 +9,13 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=leonardohuttner&color=blue)
 
 ### 💬 About me
-Sou auxiliar de desenvolvimento frontend no Grupo Lins Ferrão desde ago/2020 e estudante de de ADS no IFSUL Campus Camaquã.
+Sou desenvolvedor no Grupo Lins Ferrão desde ago/2020 e formado em Analise e Desenvolvimento pelo IFSUL Camaqua.
+Iniciei como desenvolvedor FrontEnd com VueJs e atualmente trabalho mais com python e frameworks como django e flask em aplicações
+do segmento de varejo.
 <br>
 :books: Buscando conhecimento em desenvolvimento web
 <br>
-:computer: Stacks: Conhecimentos em JS,VueJS,HTML,CSS.. Iniciando com React 
+:computer: Stacks: Conhecimentos em JS,VueJS,Python e conhecimentos basicos em Docker e Banco de dados SQL 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohuttner&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/leonardohuttner)
